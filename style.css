@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Metal+Mania');
+
+body {
+		background-color: black;
+	
+	
+}
+.container { 
+			midth: 100%;
+			max-width: 1200px;
+			margin: 0 auto;
+}
+
+h1, p  {
+	font-family: 'Metal Mania', cursive;
+	color: red;
+	text-align: center;
+	
+}
+
+h1:hover {
+	transform: scale(1.1);
+	
+	
+}
+
+.fade-out {
+  -webkit-transition:opacity .5s ease-out;
+  -moz-transition:opacity .5s ease-out;
+  -ms-transition:opacity .5s ease-out;
+  -o-transition:opacity .5s ease-out;
+  transition:opacity .5s ease-out;
+}
+
+.fade-out:hover {
+  opacity:0.2;
+}
