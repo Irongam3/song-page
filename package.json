@@ -1,0 +1,25 @@
+{
+  "name": "song-page",
+  "version": "1.0.0",
+  "description": "https://irongam3.github.io/song-page/.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irongam3/song-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irongam3/song-page/issues"
+  },
+  "homepage": "https://github.com/Irongam3/song-page#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.24.4",
+    "nu-html-checker": "^0.1.0"
+  }
+}
